@@ -1,0 +1,5 @@
+{{#user}}
+Name: NAYAB SYED DOULATH BASHA
+Skills: HTML, CSS, JS, NODE JS, EXPRESS JS, MONGO DB, REACT JS 
+Email: nayabsyeddoulathbasha.com
+{{/user}}
